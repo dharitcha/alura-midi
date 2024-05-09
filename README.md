@@ -8,3 +8,5 @@ O projeto foi feito durante um estudo de JavaScript fornecido pela Alura + Oracl
 O HTML e o CSS foi fornecido pela Alura, mas tomei liberdade de alterar um pouco a aparência para ficar mais divertido :)
 
 Projeto feito com HTML, CSS e JavaScript.
+
+Você pode acessar a página por aqui: https://dharitcha.github.io/alura-midi/
