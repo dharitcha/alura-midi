@@ -32,7 +32,7 @@ While the **HTML and CSS were provided**, customizations were made to enhance th
 ## Installation and Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/midi-drumkit.git
+   git clone https://github.com/dharitcha/js-midi-drum-kit.git
    ```
 2. Open `index.html` in a web browser.
 3. Click or press keys to play drum sounds.
